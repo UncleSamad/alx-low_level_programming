@@ -1,5 +1,4 @@
-#!/bin/bash
-[200~#include<stdio.h>
+#include<stdio.h>
 /**
  * * main - Entry point
  * *
